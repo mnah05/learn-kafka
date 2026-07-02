@@ -31,3 +31,4 @@ producer/producer
 # OS
 .DS_Store
 Thumbs.db
+kafka-basic/bin/
