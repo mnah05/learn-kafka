@@ -20,6 +20,7 @@ go.work
 # Compiled binaries (match directory names)
 consumer/consumer
 producer/producer
+/cmd
 
 # IDE
 .idea/
